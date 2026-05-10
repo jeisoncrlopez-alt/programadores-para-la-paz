@@ -1,0 +1,5 @@
+pwd
+ Ls
+  mkdir
+   cd
+   ni

@@ -1,0 +1,6 @@
+la terminal es herramienta esencial para cualquier 
+ingeniero de software. permite gestionar archivos 
+y carpetas con mucha mas velocidad que la interfaz 
+grafica. ademas es obligatoria para usar git y subir 
+proyectos a githup, lo que facilita el trabajo en equipo
+y el control de versiones de nuestro codigo 
