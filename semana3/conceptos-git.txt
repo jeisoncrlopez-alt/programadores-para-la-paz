@@ -1,0 +1,15 @@
+REPOSITORIO:
+es un espacio de almacenamiento virtual simiar a una carpeta
+iteligente, donde se guardan todos los archivos de un proyecto junto
+con su historial completo de modificaciones. permiteque git realice 
+un seguimiento detallado de cada version facilitando la organisacion
+del codigo y el trabajo en equipo de forma segura 
+COMMIT:
+Es una confirmacion intantnea del estado actual de los archivos en el 
+proyecto que se guarda de forma permanente en el historial. funciona
+como un punto de control con un mensaje descrictivo loque permite registrar
+un avance espesifico
+PUSH:
+es el comando que se utiliza para enviar y cargar los commit locales
+guardados en la computadora hacia un REPOSITORIO remoto en la nube 
+como githup

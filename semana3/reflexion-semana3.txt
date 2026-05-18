@@ -1,0 +1,6 @@
+el uso de herramientas de control de versiones como githup
+es fundamental en el desarrollo de software porque garantiza 
+la transabilidad y la seguridad de un codigo en un proyecto
+mantener un segistro detallado permite saber con precision 
+matematica que modificaciones se hicieron, cuando se realizaron 
+y quien fue el responsable de cada linea de codigo 
