@@ -1,0 +1,6 @@
+el uso de tecnologias abiertas como node.js permite a las comunidades 
+construir sus propias herramientas digitales sin depeder de licencias
+costosas  ni software privado.Esto reduce las barreras economicas y
+ayuda a que los proyectos soiales de la region sea viables.ademas 
+a ser software libre se promueve la soberania tecnologica garantizando
+que los ciudadanos tengan control total de sus datos y aplicaciones

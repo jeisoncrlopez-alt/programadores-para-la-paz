@@ -1,0 +1,14 @@
+pregunta 1 ¿qu es node.js?
+respuesta: un entorno de java.script en el sevidor
+
+pregunta2 ¿ que hace el comando npm int -y?
+repuesta:inicializa un proyecto npde.js creando el archivo package.json.
+
+pregunta 3 ¿que es express.js?
+respuesta: un framework web para node.js que facilita la creacion de 
+servidores de api 
+
+pregunta 4 ¿que es una ruta en express ?
+respuesta: una difinicion de como responde el sevidor a una solicitud 
+url especifica
+
