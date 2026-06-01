@@ -1,0 +1,13 @@
+pregunta 1
+respuesta:unadirecion que define como responde el servidor 
+a una solicitud 
+
+pregunta 2
+repuesta: get
+
+pregunta 3
+respuesta: post
+
+preguta 4
+respuesta:interfaz que permite que sistemas o aplicaciones se comuniquen
+entre si 

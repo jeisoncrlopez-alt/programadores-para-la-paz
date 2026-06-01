@@ -1,0 +1,5 @@
+las api representan una herramienta tecnologica para que las comunidades
+compartan informacion reportes o alertas de manera organizada y
+eficiente al actuar como puente de comunicacion estandarizados 
+permiten centralizar datos provinientes de multiples usuarios y 
+aplicaciones en una sola base de datos estructuradas

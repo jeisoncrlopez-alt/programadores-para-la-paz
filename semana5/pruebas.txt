@@ -1,0 +1,3 @@
+En localhost:3000 el navegador mostró el texto Servidor activo. Es la respuesta de la ruta principal.
+En localhost:3000/saludo el navegador mostró el texto Hola comunidad, respondiendo al saludo programado.
+En localhost:3000/mensaje/jeison el navegador mostró Hola jeison. El servidor tomó el nombre directamente desde la dirección.

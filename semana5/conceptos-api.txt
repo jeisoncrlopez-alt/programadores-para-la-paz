@@ -1,0 +1,5 @@
+1. ¿Qué hace esta ruta?
+Esta ruta escucha solicitudes de tipo POST en el endpoint '/reporte'. A diferencia de las rutas GET (que solo sirven para consultar), esta ruta está diseñada para recibir datos estructurados en formato JSON desde el cuerpo de la petición (req.body). El servidor procesa el parámetro 'mensaje' y responde con un objeto JSON confirmando que el reporte fue recibido con éxito.
+
+2. ¿Para qué podría servir en una aplicación comunitaria?
+En una aplicación comunitaria, este endpoint es sumamente útil para que los ciudadanos envíen información o alertas en tiempo real. Por ejemplo, podría servir para reportar un daño en la infraestructura pública (como un bache o una luminaria rota), alertar sobre una emergencia de seguridad en el barrio, o enviar propuestas a la junta comunal. Permite recolectar las quejas y reportes de la gente de manera organizada en una base de datos.
