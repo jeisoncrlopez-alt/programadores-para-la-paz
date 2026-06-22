@@ -1,0 +1,4 @@
+{
+  "tipo": "Infraestructura vial",
+  "descripcion": "Se presenta un enorme bache en la calle principal que está afectando la movilidad de los vehículos y motocicletas, poniendo en riesgo la seguridad vial de la comunidad."
+}
