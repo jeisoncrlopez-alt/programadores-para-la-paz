@@ -1,0 +1,10 @@
+1. No exponer datos personales: Proteger la información privada de los miembros de la comunidad.
+
+2. Proteger credenciales: Usar contraseñas fuertes y activar la autenticación de dos factores (2FA).
+
+3. Usar conexiones seguras: Configurar certificados SSL/TLS (HTTPS) para cifrar los datos que viajan por la red.
+
+4. Registrar accesos: Guardar un historial de ingresos para detectar movimientos sospechosos a tiempo.
+
+5. Limitar acceso a información sensible: Asegurar que solo las personas autorizadas vean los datos críticos.
+6.
