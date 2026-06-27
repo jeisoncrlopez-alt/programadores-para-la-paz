@@ -20,6 +20,15 @@ app.get('/mensaje/:nombre', (req, res) => {
   res.send('Hola ' + nombre);
 });
 
+// Ruta para recibir reportes comunitarios (POST) - Pregunta 8
+app.post('/reporte', (req, res) => {
+  const mensaje = req.body.mensaje;
+  res.json({
+    estado: "Reporte recibido",
+    mensaje: mensaje
+  });
+});
+
 // Configuración del puerto 3000
 app.listen(3000, () => {
   console.log('Servidor ejecutándose en puerto 3000');

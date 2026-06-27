@@ -1,0 +1,5 @@
+Al consultar la ruta GET /reportes por primera vez (con el servidor recién iniciado), el sistema devuelve un array vacío `[]` porque aún no se ha registrado ninguna información en la memoria.
+
+Después de enviar una petición POST a http://localhost:3000/reportes con un objeto JSON, el servidor procesa los datos, les asigna un identificador único incremental (`id`) basado en la longitud del array, y los guarda en la lista en memoria. 
+
+Al volver a consultar la ruta GET /reportes, el servidor ya no devuelve un array vacío, sino una lista que contiene el objeto o los objetos que fueron registrados previamente. Si el servidor se llega a reiniciar, los datos se borrarán y el array volverá a estar vacío.
