@@ -1,0 +1,14 @@
+Sistema operativo: 
+Es la base de software que administra todo el hardware de la máquina. Se encarga de gestionar la memoria, el almacenamiento y los procesos para que plataformas como Node.js puedan ejecutarse y manejar los recursos del sistema.
+
+Node.js: 
+Es el entorno de ejecución que nos permite correr código JavaScript del lado del servidor, fuera del navegador. Funciona con un modelo de operaciones de entrada y salida que no se bloquea, ideal para atender muchas peticiones rápido.
+
+Aplicación server.js: 
+Es el archivo principal donde escribimos nuestra lógica de negocio usando el framework Express. Aquí es donde definimos las rutas de la aplicación (endpoints) y configuramos el comportamiento que tendrá el servidor cuando reciba peticiones.
+
+Puerto: 
+Es un canal o puerta virtual específica dentro del servidor por donde se reciben y envían los datos de red. En nuestro caso usamos el puerto 3000 para que el servidor sepa exactamente por dónde escuchar las conexiones entrantes de los usuarios.
+
+Logs: 
+Es el registro donde el sistema va guardando un historial de todo lo que pasa en el servidor, desde los accesos de los usuarios hasta los errores. Son claves para poder monitorear la salud de la app y saber qué arreglar si algo falla.
