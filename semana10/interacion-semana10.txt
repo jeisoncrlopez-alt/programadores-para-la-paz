@@ -1,0 +1,13 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+- Historia 1: Permitir al ciudadano registrar una incidencia en la plataforma.
+- Historia 2: Enviar la alerta automática a Telegram al coordinador cuando se cree un reporte.
+
+2. ¿Por qué son las más importantes?
+Porque representan el núcleo y el valor principal del sistema. Si el ciudadano no puede registrar el problema, el sistema no tiene datos con los cuales trabajar. Y la alerta en Telegram asegura que el equipo se entere de inmediato para empezar a gestionar la solución, logrando una respuesta rápida con el mínimo esfuerzo técnico inicial.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”? (Definición de Terminado - DoD)
+Para mí, significa que la funcionalidad es totalmente operativa y confiable. Mis 3 criterios son:
+- Funciona correctamente: El código cumple con lo solicitado en la historia de usuario y no genera errores en el entorno local.
+- Fue probada: Se realizaron pruebas manuales simulando el flujo del usuario y la automatización con Telegram responde bien.
+- Quedó registrada en Git: El código limpio y definitivo fue subido al repositorio de GitHub con su respectivo commit.
+-

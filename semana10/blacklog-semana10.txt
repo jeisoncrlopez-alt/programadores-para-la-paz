@@ -1,0 +1,14 @@
+BACKLOG DEL PROYECTO - SISTEMA DE VEEDURÍA CIUDADANA
+
+[PRIORIDAD ALTA]
+1. Como ciudadano, quiero registrar una incidencia o problema comunitario en la plataforma para dejar evidencia pública del caso con fotos y descripción.
+
+[PRIORIDAD MEDIA-ALTA]
+2. Como coordinador del proyecto, quiero recibir una alerta automática en Telegram cada vez que se cree un nuevo reporte para revisarlo y asignarle un estado rápidamente.
+
+[PRIORIDAD MEDIA]
+3. Como miembro del equipo de veeduría, quiero consultar la lista de reportes activos para hacerles seguimiento y actualizar el avance de la solución.
+
+[PRIORIDAD BAJA]
+4. Como ciudadano, quiero filtrar los reportes por estado (pendiente, en proceso, resuelto) para saber qué problemas ya están siendo atendidos en mi comunidad.
+5.
