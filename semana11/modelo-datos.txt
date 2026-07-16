@@ -1,0 +1,23 @@
+Entidad: Causa
+
+Campos principales:
+- id (Entero, Clave Primaria, Autoincremental)
+- titulo (Texto, Obligatorio)
+- descripcion (Texto, Obligatorio)
+- fecha_creacion (Fecha/Hora, Por defecto actual)
+- usuario_creador_id (Entero, Clave Foránea)
+
+Propósito:
+Almacenar las iniciativas o propuestas comunitarias registradas por los ciudadanos para que sean visibles en la plataforma.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id (Entero, Clave Primaria, Autoincremental)
+- causa_id (Entero, Clave Foránea de Causa)
+- usuario_id (Entero, Clave Foránea de Usuario)
+- fecha_apoyo (Fecha/Hora, Por defecto actual)
+
+Propósito:
+Registrar de manera única qué usuario apoya cada causa, evitando duplicaciones y permitiendo la trazabilidad y métricas de participación.

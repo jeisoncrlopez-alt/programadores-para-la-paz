@@ -1,0 +1,15 @@
+La interfaz de la plataforma estará diseñada para ser intuitiva, rápida y visualmente limpia:
+
+1. Vista de causas disponibles: 
+   Un panel principal en forma de rejilla (grid) o lista donde se muestran las causas activas, detallando el título, una descripción breve y el creador.
+
+2. Formulario para crear una causa: 
+   Un formulario sencillo (ocultable o en una sección dedicada) con campos de texto para el título, área de texto para la descripción y un botón de "Publicar Causa".
+
+3. Botón para apoyar una causa: 
+   Cada tarjeta de causa contará con un botón interactivo (por ejemplo, con un icono de mano arriba o corazón) para registrar el apoyo del usuario autenticado.
+
+4. Contador de apoyos: 
+   Al lado del botón de apoyo se mostrará dinámicamente un número que indica la cantidad total de personas que respaldan esa iniciativa.
+
+La interfaz priorizará la privacidad, por lo que nunca mostrará datos personales de los votantes a otros usuarios.

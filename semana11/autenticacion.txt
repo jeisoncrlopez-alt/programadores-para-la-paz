@@ -1,0 +1,6 @@
+El login permite verificar la identidad de un usuario antes de darle acceso a funcionalidades específicas del sistema.
+Es fundamental proteger ciertas rutas para evitar que usuarios no autorizados alteren la información o realicen acciones críticas.
+Sin esta protección, cualquier persona podría borrar causas, manipular votos de apoyo o acceder a configuraciones administrativas.
+En una plataforma digital jamás debe exponerse públicamente información sensible de la base de datos.
+Esto incluye contraseñas, direcciones de correo, números de teléfono, documentos de identidad, tokens de sesión o claves de API.
+Mantener estos accesos bajo estricto control resguarda la integridad de la comunidad y la confiabilidad del software.

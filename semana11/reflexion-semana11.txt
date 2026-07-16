@@ -1,0 +1,8 @@
+Una plataforma de participación ciudadana requiere una base de datos, autenticación y protección de información para garantizar su legitimidad y seguridad.
+La base de datos es el núcleo que permite estructurar y almacenar de forma persistente las iniciativas y opiniones de la comunidad.
+Por su parte, la autenticación actúa como un filtro democrático indispensable, asegurando que cada interacción corresponda a una persona real.
+Esto previene la manipulación de resultados, el spam masivo y la creación de cuentas falsas destinadas a alterar los apoyos de las causas.
+Finalmente, la protección de los datos personales es un deber ético y legal que fomenta un entorno seguro y libre de represalias.
+Si los ciudadanos no confían en que su información está segura, simplemente optarán por no participar en estos espacios digitales.
+Por tanto, integrar estos tres pilares técnicos es vital para asegurar la trazabilidad del sistema, la transparencia y el éxito del proyecto.
+La seguridad de la información no es una característica opcional, sino el cimiento de la confianza digital comunitaria.
