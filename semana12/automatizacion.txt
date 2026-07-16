@@ -1,0 +1,10 @@
+Evento disparador (Trigger): Nueva causa registrada en la plataforma comunitaria.
+
+Acción de automatización:
+A través de un Webhook, el sistema envía una petición HTTP a n8n, el cual procesa el evento y publica un mensaje directo en un canal o grupo de Telegram dedicado a la comunidad.
+
+Mensaje a enviar:
+"📢 ¡Nueva causa registrada! Se ha creado una nueva propuesta comunitaria en la plataforma titulada: {titulo_causa}. Únete al proyecto y apoya esta iniciativa ingresando a la plataforma."
+
+Información que NO debe enviarse por seguridad:
+Bajo ninguna circunstancia se deben enviar credenciales de acceso, claves API, tokens de sesión, correos electrónicos, números telefónicos, números de identificación, direcciones físicas de los usuarios o comentarios de carácter privado y sensible de la comunidad.

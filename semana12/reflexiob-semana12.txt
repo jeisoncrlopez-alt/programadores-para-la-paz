@@ -1,0 +1,9 @@
+A lo largo de este curso, he aprendido que la tecnología no solo sirve para crear software comercial, sino que es una herramienta poderosa para transformar e impulsar la participación ciudadana y la organización de nuestras comunidades.
+Comprendí que un sistema web bien estructurado, que conecte de forma fluida bases de datos, backend, y automatizaciones, permite centralizar esfuerzos colectivos de forma transparente y ágil.
+Sin embargo, el aprendizaje más valioso ha sido entender el enorme compromiso ético que implica manejar datos comunitarios.
+Diseñar software para la comunidad requiere equilibrar la accesibilidad y la sencillez técnica con una robusta protección de la privacidad de los usuarios.
+Minimizar los datos sensibles recolectados y proteger las rutas de acceso no es un requerimiento opcional, sino la base de la confianza digital.
+La automatización y la generación de documentos automatizados nos ayudan a formalizar peticiones que de otra forma tomarían meses de gestión.
+Gracias a estos conocimientos, ahora sé cómo estructurar arquitecturas web que empoderen a la ciudadanía a exigir cambios sociales de manera estructurada.
+En conclusión, la ingeniería de software adquiere su verdadero valor cuando se pone al servicio de la resolución de problemas reales de la sociedad.
+La tecnología bien aplicada se convierte en un puente directo entre la necesidad colectiva y la solución institucional.

@@ -1,0 +1,8 @@
+Flujo de funcionamiento del sistema "Petición en 3 Clics":
+
+Paso 1: Un ciudadano autenticado accede al sistema y redacta y crea una causa comunitaria.
+Paso 2: La nueva causa se almacena de forma segura y persistente en la base de datos del servidor.
+Paso 3: Otros ciudadanos visualizan la lista de causas disponibles y hacen clic en "Apoyar" en la que prefieran.
+Paso 4: El sistema registra el apoyo, actualiza el contador en tiempo real y valida que el usuario no duplique su firma.
+Paso 5: Una vez alcanzado un número determinado de apoyos, el sistema genera automáticamente un documento formal en formato PDF.
+Paso 6: El documento PDF consolidado queda disponible para su descarga, listo para ser impreso o radicado ante los entes competentes.
